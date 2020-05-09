@@ -9,7 +9,7 @@ The plots are shown below on linear and logarithmic color scales.
   <img src="/plots/logScale.png" width=430>
 </p>
 
-Word clouds for each major character are also plotted. An example is shown below (word cloud for Michael Scott).
+A word cloud for each major character is also plotted. An example is shown below (word cloud for Michael Scott).
 <p align="CENTER">
   <img src="/plots/word_clouds/wordcloud_michael.png" width=700>
 </p>
